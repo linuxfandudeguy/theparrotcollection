@@ -63,3 +63,7 @@ For HD Parrots:
 <img src="https://parrotio.netlify.app/asyncparrot.gif" alt="Async Parrot" width="600">
 
 ###### Async Parrot, one of the creators favorite parrot from `theparrotcollection` (low quality bcuz not HD)
+
+<img src="https://parrotapi-mu.vercel.app/api/parrot/random" alt="Async Parrot" width="600">
+
+###### A random parrot, made possible with `theparrotcollection` api.
