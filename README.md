@@ -6,9 +6,9 @@ All of these parrots are downloaded from a website called [cultofthepartyparrot.
 
 ###### lets party
 
+## Usage
 If you want to put these parrots in your website, then put a image tag with the following URL format:
 
-## Usage
 **`https://parrotio.netlify.app/{parrot you want to put in your website}`**
 
 For HD Parrots:
