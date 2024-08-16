@@ -7,7 +7,11 @@ All of these parrots are downloaded from a website called [cultofthepartyparrot.
 ###### lets party
 
 ## Usage
-If you want to put these parrots in your website, then put a image tag with the following URL format:
+If you want to put these parrots in your website, then follow these instructions:
+
+Look inside the repository for a parrot you like.
+
+Make a image tag in your website with a URL in this format:
 
 **`https://parrotio.netlify.app/{parrot you want to put in your website}`**
 
@@ -17,14 +21,17 @@ For HD Parrots:
 
 **`https://parrotio.netlify.app/hd/{parrot you want to put in your website specifically in the hd folder}`**
 
-If you want to use flag parrots, then use:
-visit [linuxfandudeguy/partyguests](https://github.com/linuxfandudeguy/flagparrots/tree/master) and find a file name for a parrot you like.
+If you want to use flag parrots, then:
+visit [linuxfandudeguy/flagparrots](https://github.com/linuxfandudeguy/flagparrots/tree/master) and find a file name for a parrot you like.
+
+Make a image tag in your website with a URL in this format:
 
 **`https://flagparrotio.netlify.app/hd/{file name of the parrot you want to use}`**
 
 if you want party guests then follow these instructions:
 visit [linuxfandudeguy/partyguests](https://github.com/linuxfandudeguy/partyguests/tree/master) and find a file name for a guest you like.
 
+Make a image tag in your website with a URL in this format:
 
 **`https://partyguestio.netlify.app/{guest you want to put in your website}`**
 
@@ -33,4 +40,17 @@ For HD Parrots:
 
 
 **`https://partyguestio.netlify.app/hd/{guest you want to put in your website specifically in the hd folder}`**
+
+# PARTY
+## PARTY
+### PARTY
+#### PARTY
+##### PARTY
+###### PARTY
+##### PARTY
+#### PARTY
+### PARTY
+## PARTY
+# PARTY
+
 
