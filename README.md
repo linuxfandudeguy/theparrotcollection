@@ -66,4 +66,4 @@ For HD Parrots:
 
 <img src="https://parrotapi-mu.vercel.app/api/parrot/random" alt="Async Parrot" width="600">
 
-###### A random parrot, made possible with `theparrotcollection` api.
+###### A random parrot/guest, made possible with `theparrotcollection` api.
