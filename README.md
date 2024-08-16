@@ -62,4 +62,4 @@ For HD Parrots:
 
 <img src="https://parrotio.netlify.app/asyncparrot.gif" alt="Async Parrot" width="600">
 
-###### Async Parrot, one of the creators favorite parrot from `theparrotcollection`
+###### Async Parrot, one of the creators favorite parrot from `theparrotcollection` (low quality bcuz not HD)
