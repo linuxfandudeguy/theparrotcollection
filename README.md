@@ -1,4 +1,5 @@
 # theparrotcollection
+<img src="https://skillicons.dev/icons?i=netlify" alt="web dev" height="40"/>
 
 This is a large collection of party parrots, so large that it spans across 3 Netlify websites and 3 repositories.
 
