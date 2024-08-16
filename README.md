@@ -54,6 +54,7 @@ For HD Parrots:
 ## PARTY
 # PARTY 
 
-<img src="https://parrotio.netlify.app/hd/tiedyeparrot.gif" alt="web dev" height="40"/>
+
+<img src="https://parrotio.netlify.app/hd/tiedyeparrot.gif" alt="Your Image" width="600"/>
 
 ###### Tye-Dye Parrot, a example of one of the parrots from `theparrotcollection`
