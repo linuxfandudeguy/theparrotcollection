@@ -60,4 +60,4 @@ For HD Parrots:
 ###### Tye-Dye Parrot, a example of one of the parrots from `theparrotcollection`
 
 
-<img src="https://parrotio.netlify.app/asyncparrot.gif" alt="Async Parrot" width="2000">
+<img src="https://parrotio.netlify.app/asyncparrot.gif" alt="Async Parrot" width="1000">
