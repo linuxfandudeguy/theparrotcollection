@@ -4,17 +4,18 @@ This is a large collection of party parrots, so large that it spans across 3 Net
 
 ###### lets party
 
-if you want to put these parrots in your website then put a image tag with the following URL format:
+If you want to put these parrots in your website, then put a image tag with the following URL format:
 
-
+## Usage
 **`https://parrotio.netlify.app/{parrot you want to put in your website}`**
 
-for high quality ones:
+For HD Parrots:
 
 
 
 **`https://parrotio.netlify.app/hd/{parrot you want to put in your website specifically in the hd folder}`**
 
-If you want to use flag parrots,then use:
+If you want to use flag parrots, then use:
 
+**`https://flagparrotio.netlify.app/hd/{file name of the parrot you want to use}`**
 
